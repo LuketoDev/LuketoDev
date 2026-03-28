@@ -8,7 +8,7 @@ Técnico en Informática y estudiante avanzado de la Tecnicatura Universitaria e
 
 ## 🛠️ Tecnologías
 
-### Lenguajes
+### ⌨️ Lenguajes
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,7 +18,7 @@ Técnico en Informática y estudiante avanzado de la Tecnicatura Universitaria e
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Librerías
+### 🧩 Frameworks & Librerías
 
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -30,7 +30,7 @@ Técnico en Informática y estudiante avanzado de la Tecnicatura Universitaria e
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Bases de Datos
+### 🗄️ Bases de Datos
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -102,12 +102,28 @@ Técnico en Informática y estudiante avanzado de la Tecnicatura Universitaria e
 ### 🖥️ Jinete Gamer — E-commerce de Componentes de PC
 > Java · Spring MVC · Hibernate · Thymeleaf · JUnit · Mockito · MySQL · Docker
 
+- Arquitectura **MVC completa** con Spring MVC y Hibernate ORM, separación en capas (controladores, servicios, 
+repositorios y entidades), contenedorización con **Docker** y **pipeline CI/CD con GitHub Actions;** pruebas 
+unitarias con **JUnit 5/Mockito** y E2E con **Playwright**.
+- **Motor de compatibilidad entre componentes en tiempo real:** valida socket CPU/motherboard, tipo DDR de 
+RAM, puertos SATA/M2 disponibles y potencia de fuente según el consumo total del armado. 
+- Integración con **API externa** para recomendar componentes según los juegos/programas seleccionados por el 
+usuario, calculando **requisitos mínimos y recomendados** de CPU, RAM, GPU y almacenamiento entre todos los 
+títulos elegidos.
+
+
 🔗 [Ver repositorio](https://github.com/LuketoDev/TW1-Proyecto)
 
 ---
 
 ### 🎮 CS:GO Market — E-commerce de Items
 > Angular · Node.js · Express · Prisma · TypeScript · JavaScript
+
+- Frontend en **Angular 19** con arquitectura **Smart/Dumb Components,** gestión de estado global con **Signals (SSOT)** y **lazy 
+loading** por módulo.
+- Autenticación de usuarios, encriptación **bcryptjs**, validación con **express-validator** y programación reactiva con **RxJS**.
+- **Backend API REST** con Node.js, Express y **Prisma ORM** (SQL Server). Capas: controladores, servicios, repositorios y 
+middlewares.
 
 🔗 [Ver repositorio](https://github.com/Urielito1031/ecommerce-taller-web-2)
 
@@ -116,6 +132,7 @@ Técnico en Informática y estudiante avanzado de la Tecnicatura Universitaria e
 ## 📚 Educación
 
 🎓 **Tecnicatura Universitaria en Desarrollo Web** — UNLaM *(2023 – Actualidad)*
+
 🎓 **Técnico en Informática Personal y Profesional** — EEST N° 11 "Islas Malvinas" *(2018 – 2022)*
 
 ---
